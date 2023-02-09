@@ -55,7 +55,7 @@ apt install git
 
 apt update && apt upgrade
 
-git clone https://github.com/zim-bot/zimbot-v4
+git clone https://github.com/legendhackkl/zimbot-v4/
  
 cd zimbot-v4
 
